@@ -3,7 +3,7 @@
 <h3 align="center">A young-dumb 🤓 front end developer from Indonesia</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rizkyfrdiansyah alt=rizkyfrdiansyah/> </p>
 
-<p align="left"> <a href="https://twitter.com/bulsky_d" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bulsky_d" target="blank"><img src="https://img.shields.io/twitter/follow/bulsky_d?logo=twitter&style=for-the-badge" alt="bulsky" /></a> </p>
 
 
 - 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
