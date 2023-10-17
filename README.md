@@ -7,7 +7,7 @@
 </picture>
 
 <!--
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Afif%20Abdillah%20Jusuf&fontSize=70&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=52&descAlign=67&descSize=35" />
+<img src="https://github-readme-stats.vercel.app/api?username=rizkyfrdiansyah&show_icons=true alt=rizkyfrdiansyah" />
 -->
 
 Seorang programmer newbie yang ingin merasakan problem solving dengan code dengan terus mencoba mengulik teknologi baru pada dunia coding. 
@@ -19,7 +19,7 @@ Skills: REACT / JS / HTML / CSS / Python
 - 👯 I’m looking to collaborate on Web Development, visit [my polywork](https://altagym-altagym.vercel.app/login) 
 - 🤔 I’m looking for help with Python Machine Learning 
 - 💬 Ask me about Anything 🤷‍♂️ 
-- 📫 How to contact me: visit my discord [bulskeyuhuy](#3309) 
+- 📫 How to contact me: visit my discord [bulskeyuhuy#3309] 
 - 😄 Pronouns: he/him/his 
 
 
