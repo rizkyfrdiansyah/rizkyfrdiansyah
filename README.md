@@ -1,45 +1,43 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rizky Ferdiansyah</h1>
+### Hi there <img src="https://raw.githubusercontent.com/bungambohlah/bungambohlah/master/wave.gif" width="30" height="30" />
 
-<h3 align="center">A young-dumb 🤓 front end developer from Indonesia</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rizkyfrdiansyah alt=rizkyfrdiansyah/> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="header.svg" />
+  <img alt="Muhammad Rizky Ferdiansyah" src="/Images/dark_github.svg" width="100%" />
+</picture>
 
-<p align="left"> <a href="https://twitter.com/bulsky_d" target="blank"><img src="https://img.shields.io/twitter/follow/bulsky_d?logo=twitter&style=for-the-badge" alt="bulsky" /></a> </p>
+<!--
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Afif%20Abdillah%20Jusuf&fontSize=70&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=52&descAlign=67&descSize=35" />
+-->
 
+Seorang programmer newbie yang ingin merasakan problem solving dengan code dengan terus mencoba mengulik teknologi baru pada dunia coding. 
 
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+Skills: REACT / JS / HTML / CSS / Python
 
-- 💬 Ask me about **react**
-
-- 📫 Reach me at **muhammadrizkyferdiansyah@gmail.com**
-
-- 👨‍💻 All of my projects are available at [Capstone-Project](https://altagym-altagym.vercel.app/login)
-
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
-
-I have a bug to document technical stuffs that I do, which can be found at my [Mini-Project](https://decashier.netlify.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/rizkyfrdiansyah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://dev.to/rizkyfrdiansyah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://twitter.com/bulsky_d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-rizky-ferdiansyah-602671226/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rizkyfrdiansyah_08/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
-</p>
-
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-      <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    </p>
+- 🔭 I’m currently bootcamp intern at SMKDEV Scholarship. 
+- 🌱 I’m currently learning ReactJS and NextJS
+- 👯 I’m looking to collaborate on Web Development, visit [my polywork](https://altagym-altagym.vercel.app/login) 
+- 🤔 I’m looking for help with Python Machine Learning 
+- 💬 Ask me about Anything 🤷‍♂️ 
+- 📫 How to contact me: visit my discord [bulskeyuhuy](#3309) 
+- 😄 Pronouns: he/him/his 
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rizkyfrdiansyah&show_icons=true alt=rizkyfrdiansyah /> </p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rizkyfrdiansyah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/rizkyfrdiansyah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-rizky-ferdiansyah-602671226/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/robin.perdi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rizkyfrdiansyah_08/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bulsky_d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/rizkyfrdiansyah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/muhammadrizkyferdiansyah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19716219/muhammad-rizky-ferdiansyah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCHQAr4XzDds-y1qxP5sisXA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/rizkyfrdiansyah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://y-majid16.github.io/proyek-html-css-progate)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bungambohlah&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Apep's github streak stats" />
+
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Apep's github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&layout=compact" alt="Apep's wakatime stats" />
+
+
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&layout=compact" alt="Apep's top program languages" />
+
+---
+
+![Profile views](https://gpvc.arturio.dev/rizkyfrdiansyah)
+[![wakatime](https://wakatime.com/badge/user/6326d1b5-a2ef-4c94-8c56-85a743f57115.svg)](https://wakatime.com/@6326d1b5-a2ef-4c94-8c56-85a743f57115)
