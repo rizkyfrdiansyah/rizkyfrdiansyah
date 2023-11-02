@@ -10,7 +10,8 @@ Skills: REACT / JS / HTML / CSS / Python
 
 - 🔭 I’m currently bootcamp intern at SMKDEV Scholarship. 
 - 🌱 I’m currently learning ReactJS and NextJS
-- 👯 I’m looking to collaborate on Web Development, visit [Mini-Project](https://decashier.netlify.app/) [Capstone-Project](https://altagym-altagym.vercel.app/login) 
+- 👯 I have collaborated on Web Development at Alterra Academy, visit [Mini-Project](https://decashier.netlify.app/) [Capstone-Project](https://altagym-altagym.vercel.app/login)
+- 👯 I have collaborated on Web Development at SMKDEV Scholarship, visit [Mini-Project](https://cinefilm-frontend.netlify.app/), [Capstone-Project](On-Progress) 
 - 🤔 I’m looking for help with Python Machine Learning 
 - 💬 Ask me about Anything 🤷‍♂️ 
 - 📫 How to contact me: visit my discord [bulskeyuhuy#3309] 
