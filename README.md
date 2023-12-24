@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizky Ferdiansyah</h1>
 
-<h3 align="center">Seorang programmer newbie yang ingin merasakan problem solving dengan code dengan terus mencoba mengulik teknologi baru pada dunia coding.</h3>
+<h3 align="center">Seorang pemula dalam pemrograman yang ingin merasakan seni pemecahan masalah melalui kode dengan terus mengeksplorasi teknologi baru dalam dunia pengkodean.</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rizkyfrdiansyah alt=rizkyfrdiansyah/> </p>
 
 <p align="left"> <a href="https://twitter.com/bulsky_d" target="blank"><img src="https://img.shields.io/twitter/follow/bulsky_d?logo=twitter&style=for-the-badge" alt="bulsky" /></a> </p>
