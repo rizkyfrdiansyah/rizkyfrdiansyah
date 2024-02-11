@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Golang, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://revou-trial-se.github.io/14-nov-assignment-rizkyfrdiansyah/](https://revou-trial-se.github.io/14-nov-assignment-rizkyfrdiansyah/)
+- 👨‍💻 All of my projects are available at [https://rizkyfrdiansyah.netlify.app/](https://rizkyfrdiansyah.netlify.app/)
 
 - 📫 How to reach me **muhammadrizkyferdiansyah@gmail.com**
 
